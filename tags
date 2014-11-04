@@ -1,0 +1,303 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AddIndexToUsersEmail	db/migrate/20140525072249_add_index_to_users_email.rb	/^class AddIndexToUsersEmail < ActiveRecord::Migration$/;"	c
+AddPasswordDigestToUsers	db/migrate/20140527121635_add_password_digest_to_users.rb	/^class AddPasswordDigestToUsers < ActiveRecord::Migration$/;"	c
+AddRememberTokenToUsers	db/migrate/20141104132308_add_remember_token_to_users.rb	/^class AddRememberTokenToUsers < ActiveRecord::Migration$/;"	c
+Animation	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function Animation( elem, properties, options ) {$/;"	f
+Animation	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function Animation( elem, properties, options ) {$/;"	f
+Application	config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Sample5App
+ApplicationController	app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+CSRFToken.get	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  CSRFToken = {$/;"	m
+CSRFToken.get	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  CSRFToken = {$/;"	m
+CSRFToken.update	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    },$/;"	m
+CSRFToken.update	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    },$/;"	m
+CreateUsers	db/migrate/20140521075845_create_users.rb	/^class CreateUsers < ActiveRecord::Migration$/;"	c
+Sample5App	config/application.rb	/^module Sample5App$/;"	m
+SessionsController	app/controllers/sessions_controller.rb	/^class SessionsController < ApplicationController$/;"	c
+SessionsHelper	app/helpers/sessions_helper.rb	/^module SessionsHelper$/;"	m
+StaticPagesController	app/controllers/static_pages_controller.rb	/^class StaticPagesController < ApplicationController$/;"	c
+StaticPagesHelper	app/helpers/static_pages_helper.rb	/^module StaticPagesHelper$/;"	m
+Tween	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function Tween( elem, options, prop, end, easing ) {$/;"	f
+Tween	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^jQuery.Tween = Tween;$/;"	c
+Tween	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function Tween( elem, options, prop, end, easing ) {$/;"	f
+Tween	public/assets/application-c631abef50975026deeb4107802380e6.js	/^jQuery.Tween = Tween;$/;"	c
+Tween.constructor	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^Tween.prototype = {$/;"	p
+Tween.constructor	public/assets/application-c631abef50975026deeb4107802380e6.js	/^Tween.prototype = {$/;"	p
+Tween.cur	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	},$/;"	m
+Tween.cur	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	},$/;"	m
+Tween.init	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	constructor: Tween,$/;"	m
+Tween.init	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^Tween.prototype.init.prototype = Tween.prototype;$/;"	m
+Tween.init	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	constructor: Tween,$/;"	m
+Tween.init	public/assets/application-c631abef50975026deeb4107802380e6.js	/^Tween.prototype.init.prototype = Tween.prototype;$/;"	m
+Tween.propHooks._default	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^Tween.propHooks = {$/;"	p
+Tween.propHooks._default	public/assets/application-c631abef50975026deeb4107802380e6.js	/^Tween.propHooks = {$/;"	p
+Tween.run	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	},$/;"	m
+Tween.run	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	},$/;"	m
+User	app/models/user.rb	/^class User < ActiveRecord::Base$/;"	c
+UsersController	app/controllers/users_controller.rb	/^class UsersController < ApplicationController$/;"	c
+UsersHelper	app/helpers/users_helper.rb	/^module UsersHelper$/;"	m
+about	app/controllers/static_pages_controller.rb	/^  def about$/;"	f	class:StaticPagesController
+actualDisplay	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function actualDisplay( name, doc ) {$/;"	f
+actualDisplay	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function actualDisplay( name, doc ) {$/;"	f
+addToPrefiltersOrTransports	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function addToPrefiltersOrTransports( structure ) {$/;"	f
+addToPrefiltersOrTransports	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function addToPrefiltersOrTransports( structure ) {$/;"	f
+ajaxConvert	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function ajaxConvert( s, response ) {$/;"	f
+ajaxConvert	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function ajaxConvert( s, response ) {$/;"	f
+ajaxExtend	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function ajaxExtend( target, src ) {$/;"	f
+ajaxExtend	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function ajaxExtend( target, src ) {$/;"	f
+ajaxHandleResponses	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function ajaxHandleResponses( s, jqXHR, responses ) {$/;"	f
+ajaxHandleResponses	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function ajaxHandleResponses( s, jqXHR, responses ) {$/;"	f
+anchoredLink	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+anchoredLink	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+assetsChanged	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+assetsChanged	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+augmentWidthOrHeight	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {$/;"	f
+augmentWidthOrHeight	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {$/;"	f
+browserCompatibleDocumentParser	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+browserCompatibleDocumentParser	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+buildParams	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function buildParams( prefix, obj, traditional, add ) {$/;"	f
+buildParams	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function buildParams( prefix, obj, traditional, add ) {$/;"	f
+cacheCurrentPage	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+cacheCurrentPage	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+change	db/migrate/20140521075845_create_users.rb	/^  def change$/;"	f	class:CreateUsers
+change	db/migrate/20140525072249_add_index_to_users_email.rb	/^  def change$/;"	f	class:AddIndexToUsersEmail
+change	db/migrate/20140527121635_add_password_digest_to_users.rb	/^  def change$/;"	f	class:AddPasswordDigestToUsers
+change	db/migrate/20141104132308_add_remember_token_to_users.rb	/^  def change$/;"	f	class:AddRememberTokenToUsers
+changePage	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+changePage	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+cloneCopyEvent	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function cloneCopyEvent( src, dest ) {$/;"	f
+cloneCopyEvent	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function cloneCopyEvent( src, dest ) {$/;"	f
+constrainPageCacheTo	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+constrainPageCacheTo	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+contact	app/controllers/static_pages_controller.rb	/^  def contact$/;"	f	class:StaticPagesController
+create	app/controllers/sessions_controller.rb	/^  def create$/;"	f	class:SessionsController
+create	app/controllers/users_controller.rb	/^  def create$/;"	f	class:UsersController
+createActiveXHR	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function createActiveXHR() {$/;"	f
+createActiveXHR	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function createActiveXHR() {$/;"	f
+createDocumentUsingDOM	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    };$/;"	f
+createDocumentUsingDOM	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    };$/;"	f
+createDocumentUsingParser	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    var createDocumentUsingDOM, createDocumentUsingParser, createDocumentUsingWrite, e, testDoc, _ref1;$/;"	f
+createDocumentUsingParser	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    var createDocumentUsingDOM, createDocumentUsingParser, createDocumentUsingWrite, e, testDoc, _ref1;$/;"	f
+createDocumentUsingWrite	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    };$/;"	f
+createDocumentUsingWrite	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    };$/;"	f
+createFxNow	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function createFxNow() {$/;"	f
+createFxNow	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function createFxNow() {$/;"	f
+createSafeFragment	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function createSafeFragment( document ) {$/;"	f
+createSafeFragment	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function createSafeFragment( document ) {$/;"	f
+createStandardXHR	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function createStandardXHR() {$/;"	f
+createStandardXHR	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function createStandardXHR() {$/;"	f
+createTweens	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function createTweens( animation, props ) {$/;"	f
+createTweens	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function createTweens( animation, props ) {$/;"	f
+create_remember_token	app/models/user.rb	/^  def create_remember_token$/;"	f	class:User
+crossOriginLink	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+crossOriginLink	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+css_defaultDisplay	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function css_defaultDisplay( nodeName ) {$/;"	f
+css_defaultDisplay	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function css_defaultDisplay( nodeName ) {$/;"	f
+curCSS	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	};$/;"	f
+curCSS	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	};$/;"	f
+current_user	app/helpers/sessions_helper.rb	/^  def current_user$/;"	f	class:SessionsHelper
+current_user=	app/helpers/sessions_helper.rb	/^  def current_user=(user)$/;"	f	class:SessionsHelper
+dataType	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^		var dataType,$/;"	v
+dataType	public/assets/application-c631abef50975026deeb4107802380e6.js	/^		var dataType,$/;"	v
+defaultPrefilter	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function defaultPrefilter( elem, props, opts ) {$/;"	f
+defaultPrefilter	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function defaultPrefilter( elem, props, opts ) {$/;"	f
+destroy	app/controllers/sessions_controller.rb	/^  def destroy$/;"	f	class:SessionsController.create
+disableScript	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function disableScript( elem ) {$/;"	f
+disableScript	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function disableScript( elem ) {$/;"	f
+display	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	cssShow = { position: "absolute", visibility: "hidden", display: "block" },$/;"	p
+display	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	cssShow = { position: "absolute", visibility: "hidden", display: "block" },$/;"	p
+executeScriptTags	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+executeScriptTags	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+extractLink	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+extractLink	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+extractTitleAndBody	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+extractTitleAndBody	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+extractTrackAssets	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+extractTrackAssets	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+fetchHistory	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+fetchHistory	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+fetchReplacement	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+fetchReplacement	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+findOrAppend	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function findOrAppend( elem, tag ) {$/;"	f
+findOrAppend	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function findOrAppend( elem, tag ) {$/;"	f
+fixCloneNodeIssues	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function fixCloneNodeIssues( src, dest ) {$/;"	f
+fixCloneNodeIssues	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function fixCloneNodeIssues( src, dest ) {$/;"	f
+fixDefaultChecked	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function fixDefaultChecked( elem ) {$/;"	f
+fixDefaultChecked	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function fixDefaultChecked( elem ) {$/;"	f
+fontWeight	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^		letterSpacing: 0,$/;"	p
+fontWeight	public/assets/application-c631abef50975026deeb4107802380e6.js	/^		letterSpacing: 0,$/;"	p
+full_title	app/helpers/application_helper.rb	/^  def full_title(page_title)$/;"	f	class:ApplicationHelper
+full_title	spec/support/utilities.rb	/^def full_title(page_title)$/;"	f
+genFx	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function genFx( type, includeWidth ) {$/;"	f
+genFx	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function genFx( type, includeWidth ) {$/;"	f
+genFx.which.height	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^		attrs = { height: type },$/;"	p
+genFx.which.height	public/assets/application-c631abef50975026deeb4107802380e6.js	/^		attrs = { height: type },$/;"	p
+getAll	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function getAll( context, tag ) {$/;"	f
+getAll	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function getAll( context, tag ) {$/;"	f
+getStyles	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^if ( window.getComputedStyle ) {$/;"	f
+getStyles	public/assets/application-c631abef50975026deeb4107802380e6.js	/^if ( window.getComputedStyle ) {$/;"	f
+getWidthOrHeight	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function getWidthOrHeight( elem, name, extra ) {$/;"	f
+getWidthOrHeight	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function getWidthOrHeight( elem, name, extra ) {$/;"	f
+getWindow	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function getWindow( elem ) {$/;"	f
+getWindow	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function getWindow( elem ) {$/;"	f
+gravatar_for	app/helpers/users_helper.rb	/^  def gravatar_for(user)$/;"	f	class:UsersHelper
+handleClick	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+handleClick	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+hash	app/models/user.rb	/^  def User.hash(token)$/;"	F	class:User
+help	app/controllers/static_pages_controller.rb	/^  def help$/;"	f	class:StaticPagesController
+home	app/controllers/static_pages_controller.rb	/^  def home$/;"	f	class:StaticPagesController
+hooks.empty.fire	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^			oldfire = hooks.empty.fire;$/;"	f
+hooks.empty.fire	public/assets/application-c631abef50975026deeb4107802380e6.js	/^			oldfire = hooks.empty.fire;$/;"	f
+ignoreClick	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+ignoreClick	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+initializeTurbolinks	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+initializeTurbolinks	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+inspectPrefiltersOrTransports	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function inspectPrefiltersOrTransports( structure, options, originalOptions, jqXHR ) {$/;"	f
+inspectPrefiltersOrTransports	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function inspectPrefiltersOrTransports( structure, options, originalOptions, jqXHR ) {$/;"	f
+inspectPrefiltersOrTransports.inspect	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	function inspect( dataType ) {$/;"	f
+inspectPrefiltersOrTransports.inspect	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	function inspect( dataType ) {$/;"	f
+installClickHandlerLast	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+installClickHandlerLast	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+intersection	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+intersection	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+invalidContent	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+invalidContent	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+isHidden	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function isHidden( elem, el ) {$/;"	f
+isHidden	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function isHidden( elem, el ) {$/;"	f
+jQuery.cssHooks.opacity.get	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	jQuery.cssHooks.opacity = {$/;"	m
+jQuery.cssHooks.opacity.get	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	jQuery.cssHooks.opacity = {$/;"	m
+jQuery.cssHooks.opacity.set	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^		},$/;"	m
+jQuery.cssHooks.opacity.set	public/assets/application-c631abef50975026deeb4107802380e6.js	/^		},$/;"	m
+jQuery.easing.linear	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^jQuery.easing = {$/;"	m
+jQuery.easing.linear	public/assets/application-c631abef50975026deeb4107802380e6.js	/^jQuery.easing = {$/;"	m
+jQuery.easing.swing	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	},$/;"	m
+jQuery.easing.swing	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	},$/;"	m
+jQuery.expr.filters.animated	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^if ( jQuery.expr && jQuery.expr.filters ) {$/;"	f
+jQuery.expr.filters.animated	public/assets/application-c631abef50975026deeb4107802380e6.js	/^if ( jQuery.expr && jQuery.expr.filters ) {$/;"	f
+jQuery.expr.filters.hidden	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^if ( jQuery.expr && jQuery.expr.filters ) {$/;"	f
+jQuery.expr.filters.hidden	public/assets/application-c631abef50975026deeb4107802380e6.js	/^if ( jQuery.expr && jQuery.expr.filters ) {$/;"	f
+jQuery.expr.filters.visible	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	};$/;"	f
+jQuery.expr.filters.visible	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	};$/;"	f
+jQuery.fn.hover	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^});$/;"	f
+jQuery.fn.hover	public/assets/application-c631abef50975026deeb4107802380e6.js	/^});$/;"	f
+jQuery.fn.load	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^}$/;"	f
+jQuery.fn.load	public/assets/application-c631abef50975026deeb4107802380e6.js	/^}$/;"	f
+jQuery.fn.offset	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^}$/;"	f
+jQuery.fn.offset	public/assets/application-c631abef50975026deeb4107802380e6.js	/^}$/;"	f
+jQuery.fn.offset.docElem.left	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^		box = { top: 0, left: 0 },$/;"	p
+jQuery.fn.offset.docElem.left	public/assets/application-c631abef50975026deeb4107802380e6.js	/^		box = { top: 0, left: 0 },$/;"	p
+jQuery.fn.offset.docElem.top	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^		box = { top: 0, left: 0 },$/;"	p
+jQuery.fn.offset.docElem.top	public/assets/application-c631abef50975026deeb4107802380e6.js	/^		box = { top: 0, left: 0 },$/;"	p
+jQuery.fx.speeds._default	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	fast: 200,$/;"	p
+jQuery.fx.speeds._default	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	fast: 200,$/;"	p
+jQuery.fx.speeds.fast	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	slow: 600,$/;"	p
+jQuery.fx.speeds.fast	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	slow: 600,$/;"	p
+jQuery.fx.speeds.slow	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^jQuery.fx.speeds = {$/;"	p
+jQuery.fx.speeds.slow	public/assets/application-c631abef50975026deeb4107802380e6.js	/^jQuery.fx.speeds = {$/;"	p
+jQuery.fx.start	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^jQuery.fx.interval = 13;$/;"	f
+jQuery.fx.start	public/assets/application-c631abef50975026deeb4107802380e6.js	/^jQuery.fx.interval = 13;$/;"	f
+jQuery.fx.stop	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^};$/;"	f
+jQuery.fx.stop	public/assets/application-c631abef50975026deeb4107802380e6.js	/^};$/;"	f
+jQuery.fx.tick	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^jQuery.fx = Tween.prototype.init;$/;"	f
+jQuery.fx.tick	public/assets/application-c631abef50975026deeb4107802380e6.js	/^jQuery.fx = Tween.prototype.init;$/;"	f
+jQuery.fx.timer	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^};$/;"	f
+jQuery.fx.timer	public/assets/application-c631abef50975026deeb4107802380e6.js	/^};$/;"	f
+jQuery.offset.setOffset	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^jQuery.offset = {$/;"	m
+jQuery.offset.setOffset	public/assets/application-c631abef50975026deeb4107802380e6.js	/^jQuery.offset = {$/;"	m
+jQuery.param	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^});$/;"	f
+jQuery.param	public/assets/application-c631abef50975026deeb4107802380e6.js	/^});$/;"	f
+jQuery.speed	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^});$/;"	f
+jQuery.speed	public/assets/application-c631abef50975026deeb4107802380e6.js	/^});$/;"	f
+jqxhr	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^        var jqxhr = rails.ajax(options);$/;"	v
+jqxhr	public/assets/application-c631abef50975026deeb4107802380e6.js	/^        var jqxhr = rails.ajax(options);$/;"	v
+letterSpacing	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	cssNormalTransform = {$/;"	p
+letterSpacing	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	cssNormalTransform = {$/;"	p
+new	app/controllers/sessions_controller.rb	/^  def new$/;"	f	class:SessionsController
+new	app/controllers/users_controller.rb	/^  def new$/;"	f	class:UsersController
+new_remember_token	app/models/user.rb	/^  def User.new_remember_token$/;"	F	class:User
+noTurbolink	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+noTurbolink	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+nodeNames	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^var nodeNames = "abbr|article|aside|audio|bdi|canvas|data|datalist|details|figcaption|figure|footer|" +$/;"	v
+nodeNames	public/assets/application-c631abef50975026deeb4107802380e6.js	/^var nodeNames = "abbr|article|aside|audio|bdi|canvas|data|datalist|details|figcaption|figure|footer|" +$/;"	v
+nonHtmlLink	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+nonHtmlLink	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+nonStandardClick	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+nonStandardClick	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+oldCallbacks	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^var oldCallbacks = [],$/;"	v
+oldCallbacks	public/assets/application-c631abef50975026deeb4107802380e6.js	/^var oldCallbacks = [],$/;"	v
+opt.complete	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	opt.old = opt.complete;$/;"	f
+opt.complete	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	opt.old = opt.complete;$/;"	f
+options.type	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^        options = {$/;"	p
+options.type	public/assets/application-c631abef50975026deeb4107802380e6.js	/^        options = {$/;"	p
+options.xhrFields.withCredentials	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^          options.xhrFields = {$/;"	p
+options.xhrFields.withCredentials	public/assets/application-c631abef50975026deeb4107802380e6.js	/^          options.xhrFields = {$/;"	p
+pageCache.url	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    pageCache[currentState.position] = {$/;"	p
+pageCache.url	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    pageCache[currentState.position] = {$/;"	p
+position	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	cssShow = { position: "absolute", visibility: "hidden", display: "block" },$/;"	p
+position	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	cssShow = { position: "absolute", visibility: "hidden", display: "block" },$/;"	p
+propFilter	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function propFilter( props, specialEasing ) {$/;"	f
+propFilter	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function propFilter( props, specialEasing ) {$/;"	f
+r20	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^var r20 = \/%20\/g,$/;"	v
+r20	public/assets/application-c631abef50975026deeb4107802380e6.js	/^var r20 = \/%20\/g,$/;"	v
+rails	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  var rails;$/;"	v
+rails	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  var rails;$/;"	v
+recallScrollPosition	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+recallScrollPosition	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+reflectNewUrl	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+reflectNewUrl	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+reflectRedirectedUrl	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+reflectRedirectedUrl	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+rememberCurrentState	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+rememberCurrentState	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+rememberCurrentUrl	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+rememberCurrentUrl	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+rememberInitialPage	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+rememberInitialPage	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+removeHash	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+removeHash	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+removeNoscriptTags	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+removeNoscriptTags	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+resetScrollPosition	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+resetScrollPosition	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+restoreScript	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function restoreScript( elem ) {$/;"	f
+restoreScript	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function restoreScript( elem ) {$/;"	f
+return	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function Tween( elem, options, prop, end, easing ) {$/;"	c
+return	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function Tween( elem, options, prop, end, easing ) {$/;"	c
+return.init	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	return new Tween.prototype.init( elem, options, prop, end, easing );$/;"	m
+return.init	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	return new Tween.prototype.init( elem, options, prop, end, easing );$/;"	m
+secure_token	config/initializers/secret_token.rb	/^def secure_token$/;"	f
+setGlobalEval	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function setGlobalEval( elems, refElements ) {$/;"	f
+setGlobalEval	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function setGlobalEval( elems, refElements ) {$/;"	f
+setPositiveNumber	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function setPositiveNumber( elem, value, subtract ) {$/;"	f
+setPositiveNumber	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function setPositiveNumber( elem, value, subtract ) {$/;"	f
+show	app/controllers/users_controller.rb	/^  def show$/;"	f	class:UsersController
+showHide	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function showHide( elements, show ) {$/;"	f
+showHide	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function showHide( elements, show ) {$/;"	f
+sibling	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function sibling( cur, dir ) {$/;"	f
+sibling	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function sibling( cur, dir ) {$/;"	f
+sign_in	app/helpers/sessions_helper.rb	/^  def sign_in(user)$/;"	f	class:SessionsHelper
+signed_in?	app/helpers/sessions_helper.rb	/^  def signed_in?$/;"	f	class:SessionsHelper
+targetLink	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+targetLink	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+triggerEvent	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  };$/;"	f
+triggerEvent	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  };$/;"	f
+user_params	app/controllers/users_controller.rb	/^  def user_params$/;"	f	class:UsersController
+vendorPropName	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function vendorPropName( style, name ) {$/;"	f
+vendorPropName	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function vendorPropName( style, name ) {$/;"	f
+visibility	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^	cssShow = { position: "absolute", visibility: "hidden", display: "block" },$/;"	p
+visibility	public/assets/application-c631abef50975026deeb4107802380e6.js	/^	cssShow = { position: "absolute", visibility: "hidden", display: "block" },$/;"	p
+visit	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^  xhr = null;$/;"	f
+visit	public/assets/application-c631abef50975026deeb4107802380e6.js	/^  xhr = null;$/;"	f
+winnow	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^function winnow( elements, qualifier, keep ) {$/;"	f
+winnow	public/assets/application-c631abef50975026deeb4107802380e6.js	/^function winnow( elements, qualifier, keep ) {$/;"	f
+xhr.onabort	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    };$/;"	f
+xhr.onabort	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    };$/;"	f
+xhr.onerror	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    };$/;"	f
+xhr.onerror	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    };$/;"	f
+xhr.onloadend	public/assets/application-93f9d896bbfcb689ff6af1162355e6ed.js	/^    })(this);$/;"	f
+xhr.onloadend	public/assets/application-c631abef50975026deeb4107802380e6.js	/^    })(this);$/;"	f
